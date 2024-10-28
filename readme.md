@@ -1,0 +1,3 @@
+- 👋 Hola soy Franco Girolami, y estoy iniciandome en el proceso de programacion web a traves de Coder House
+- 👀 Me interesa conocer sobre nuevas herramientas de desarrollo y continuar incorporando conocimientos y practicas.
+- 🌱 Actualmente estoy realizando un curso de Desarrollo Web
