@@ -21,7 +21,6 @@ a:hover{
     padding: 5px;
     color: rgb(14, 11, 8);
 }
-
 nav{
     text-align: center;
     color: black;
@@ -38,9 +37,7 @@ h1{
     text-align: center;
 }
 
-section div{
-    color: black;
-    background-color: red;
-    width: 80%;
+h2{
+    text-align: center;
 }
 
