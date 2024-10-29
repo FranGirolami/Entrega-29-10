@@ -39,5 +39,22 @@ h1{
 
 h2{
     text-align: center;
+}   
+
+div{
+    text-align: center;
+    width: 60%;
+    display: flex;
 }
 
+div img{
+    height: 550px;
+    width: 50%;
+}
+
+footer{
+    text-align: center;
+    display: flex;
+    align-self: center;
+    text-decoration: none;
+}
