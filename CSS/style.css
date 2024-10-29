@@ -1,0 +1,38 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    background-color: rgb(245, 243, 241);
+}
+
+div img{
+    width: 15%
+}
+
+li{
+    text-decoration: none;
+}
+
+a{
+    text-decoration: none;
+    transition: 1s;
+    color: rgb(168, 103, 18);
+}
+a:hover{
+    text-decoration: overline black;
+    text-decoration: underline black;
+    padding: 15px;
+    margin: 15px;
+}
+
+div{
+    text-align: center;
+    display: flex;
+    justify-content: space-around;
+    padding: 15px;
+    height: 150px;
+}
+header{
+    color: bisque;
+}
